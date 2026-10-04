@@ -6,7 +6,7 @@
 This project was developed as part of the **Grundlagen Rechnerarchitektur (GRA)** lab course at the **Technical University of Munich (TUM)**. The simulator provides a cycle-accurate environment to evaluate the efficiency and hardware complexity of different cache mapping strategies using SystemC.
 
 **Contributors:**
-* **Adam Yahmadi**
+* **Adem Yahmadi**
 * **Adam Hassine**
 * **Othman Souguir**
 
